@@ -1,0 +1,9 @@
+imageio-ffmpeg==0.6.0
+librosa==0.11.0
+matplotlib==3.10.5
+numpy==2.3.3
+scikit-learn==1.7.2
+scipy==1.16.2
+soundfile==0.14.0
+streamlit==1.54.0
+torch==2.11.0

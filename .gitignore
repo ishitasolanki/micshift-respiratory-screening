@@ -1,0 +1,12 @@
+data/
+__pycache__/
+*.pyc
+*.pt
+.venv/
+.streamlit/
+eval_*.txt
+dl*.txt
+*.log
+
+# Unpublished proposal document - public disclosure would destroy patentability
+*.pdf
